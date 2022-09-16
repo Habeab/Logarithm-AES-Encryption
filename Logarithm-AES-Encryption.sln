@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logarithm-AES-Encryption", "Logarithm-AES-Encryption\Logarithm-AES-Encryption.csproj", "{DA61C393-A203-4EF5-8FD8-421D5B4902FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA61C393-A203-4EF5-8FD8-421D5B4902FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA61C393-A203-4EF5-8FD8-421D5B4902FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA61C393-A203-4EF5-8FD8-421D5B4902FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA61C393-A203-4EF5-8FD8-421D5B4902FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5BBA301-5947-4709-B6B6-B52EBDAC3D73}
+	EndGlobalSection
+EndGlobal
